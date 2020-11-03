@@ -1,0 +1,37 @@
+Events
+
+{
+    "eventName": "Christmas",
+    "eventType": "Celebration",
+    "startDateTime": "12/25/2020",
+    "endDateTime": "12/25/2020"
+}
+
+{
+    "eventName": "New Year",
+    "eventType": "Celebration",
+    "startDateTime": "1/1/2021",
+    "endDateTime": "1/1/2021"
+}
+
+Members
+
+{
+    "name": "Allan",
+    "status": "Active"
+}
+
+{
+    "name": "Carla",
+    "status": "Active"
+}
+
+{
+    "name": "CJ",
+    "status": "Active"
+}
+
+{
+    "name": "Amber",
+    "status": "Active"
+}
